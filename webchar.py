@@ -12,7 +12,7 @@ bot = Client(
     'x bot',
     api_id="2802662",
     api_hash="b8a41227faa9481313ecfa661ef50ef4",
-    bot_token="2019198313:AAFomHWIYdbc5UQWeiOV4dAEqt9kPeKsmCM"
+    bot_token="2019198313:AAHB4hToJYmDoGDH9o-Lc3-Lw8CkC2--15k"
     )
 
 @bot.on_message(filters.command('get'))
