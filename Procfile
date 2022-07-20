@@ -1,1 +1,1 @@
-worker: python3 webse.py
+worker: python3 webchar.py
