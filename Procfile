@@ -1,1 +1,1 @@
-worker: python3 webchar.py
+worker: python3 zip.py
